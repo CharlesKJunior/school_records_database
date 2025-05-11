@@ -52,7 +52,8 @@ SELECT COUNT(*) FROM students; -- Should return 10
 Visual representation of the database structure showing tables and relationships.
 
 🖼️ View Interactive ERD Online
-(Replace this with your actual ERD link if hosted online)
+
+https://dbdiagram.io/d/School_db-682025185b2fc4582f0fc269
 
 📂 Database Schema Overview
 
